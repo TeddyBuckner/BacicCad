@@ -1,6 +1,6 @@
 # BasicCAD
 
-I am editing/finishing the mount 
+I have finished all but the bearings, and the dorthy dowles. I have learned a lot and have made a lot of progress. 
 
 ---
 ## Table of Contents
