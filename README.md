@@ -1,6 +1,6 @@
 # BasicCAD
 
-I have finished all but the bearings, and the dorthy dowles. I have learned a lot and have made a lot of progress. It took a while in the begining to master the tools and to work efficiantly and fast, but once I got the hang of it it was fun and I enjoyed doing it.
+I have finished all but the bearings, and the dorthy dowles. I have learned a lot and have made a lot of progress. It took a while in the begining to master the tools and to work efficiently and fast, but once I got the hang of it it was fun and I enjoyed doing it.
 
 ---
 ## Table of Contents
